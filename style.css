@@ -1,0 +1,45 @@
+
+.form__title{
+    text-align: center;
+    font-size: 55px;
+    color: rgb(60, 60, 211);
+}
+
+form{
+    text-align: center;
+    background-color: white;
+    border: 1px solid #000;
+    width: 400px;
+    border-radius: 10px;
+}
+
+
+body{
+    background-color: #f1f1f1;
+}
+
+
+.email{
+    width: 300px;
+    height: 40px;
+    border-radius: 7px;
+    border: 1px solid #000;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+button{
+    color: white;
+    border: none;
+    width: 300px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: 700;
+    border-radius: 7px;
+    background-color: rgb(60, 60, 211);
+}
+
+.subtitle{
+    font-weight: 400;
+    text-transform: capitalize;
+}
